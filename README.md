@@ -28,7 +28,7 @@ appointments, viewing appointments, and canceling appointments.
 
 1. Clone the repository:
     <div>
-        <code>$ git clone  https://github.com/HassanSayedHassan/Clinic_Management_with_cpp.git</code>
+        <code>$ git clone  https://github.com/HassanSayedHassan/Clinic_Management_With_C__.git</code>
     </div>
 
 
